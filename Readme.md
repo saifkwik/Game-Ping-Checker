@@ -19,6 +19,6 @@ Run `flask run` to :
 * Get list of games with their Pings from your current network.
 
 
-![alt text](https://github.com/saifkwik/Game-Ping-Checker/blob/master/Screenshot-1.png)
+![alt text](https://github.com/saifkwik/Game_Ping_Checker/blob/master/Screenshot-1.png)
 
-![alt text](https://github.com/saifkwik/Game-Ping-Checker/blob/master/Screenshot-2.png)
+![alt text](https://github.com/saifkwik/Game_Ping_Checker/blob/master/Screenshot-2.png)
