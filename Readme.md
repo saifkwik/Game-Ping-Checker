@@ -1,5 +1,5 @@
 # GAME-PING_CHECKER :
-This website tracks the ping in ms you will get while playing in real time. It includes servers of top played
+This website tracks the Ping in Games you will get while playing in real time. It includes servers of top played
 games and are running currently. It gives user a rough idea of what ping will he get while playing these games.
 The page auto refreshes in 15 seconds. The App gets all the data by SQL Querying from the game_database and 
 updating the database every 15 seconds . The database was hosted locally and a exported version of the file game_
