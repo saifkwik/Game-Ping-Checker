@@ -45,7 +45,7 @@ p = 0  # p is rows in the table
 for dns_in_database in myresult:
     dns_in_db.append(myresult[p][0])
     p += 1
-# print(dns_in_db)
+
 
 
 def display(dns_in_db):
